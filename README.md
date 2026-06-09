@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🧠 Chat Context Extractor
+#  Chat Context Extractor
 
 **Extract structured AI-optimized context from any AI chat — paste into any other AI to continue seamlessly.**
 
