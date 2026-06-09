@@ -2,7 +2,7 @@
 
 #  Chat Context Extractor
 
-**Extract structured AI-optimized context from any AI chat — paste into any other AI to continue seamlessly.**
+**Extract structured AI-optimized context from any AI chat and paste into any other AI to continue seamlessly.**
 
 ![Version](https://img.shields.io/badge/version-1.0.0-6c63ff?style=flat-square)
 ![License](https://img.shields.io/badge/license-MIT-00e5a0?style=flat-square)
