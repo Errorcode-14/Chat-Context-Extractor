@@ -203,7 +203,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for setup instructions, code rules, and a
 
 ## License
 
-MIT — see [LICENSE](LICENSE)
+[MIT](MIT) [LICENSE](LICENSE)
 
 ---
 
