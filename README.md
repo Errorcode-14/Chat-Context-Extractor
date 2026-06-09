@@ -79,7 +79,7 @@ No API. No account. No cloud. Runs entirely in your browser.
 
 ## Installation
 
-### Step 1 — Clone or download
+### Clone or download
 
 ```bash
 git clone https://github.com/YOUR_USERNAME/chat-context-extractor.git
@@ -87,17 +87,7 @@ git clone https://github.com/YOUR_USERNAME/chat-context-extractor.git
 
 Or download as ZIP and extract.
 
-### Step 2 — Create PNG icons
-
-Convert the SVG icons to PNG using any free converter (e.g. [svgtopng.com](https://svgtopng.com)):
-
-| File | Size |
-|------|------|
-| `icons/icon16.svg` → `icons/icon16.png` | 16×16 px |
-| `icons/icon48.svg` → `icons/icon48.png` | 48×48 px |
-| `icons/icon128.svg` → `icons/icon128.png` | 128×128 px |
-
-### Step 3 — Load in Chrome
+### Load in Chrome
 
 1. Go to `chrome://extensions`
 2. Enable **Developer mode** (top-right toggle)
