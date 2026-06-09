@@ -174,10 +174,7 @@ chat-context-extractor/
   content.js          — DOM scraper for AI platforms
   background.js       — service worker
   icons/
-    icon16.svg        — source icon (convert to PNG)
-    icon48.svg
-    icon128.svg
-    icon16.png        — required (you create from SVG)
+    icon16.png        
     icon48.png
     icon128.png
   README.md
